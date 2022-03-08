@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Ajeya Nayak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hello All👋
 
-<!---
-ajenayak/ajenayak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my official Github Profile. Thank you for your visit.
+
+My name is Ajeya and I am an enthusiastic Python Developer from India.
+<img align="right" alt="GIF" src="https://github.com/ajenayak/ajenayak?raw=true" width="500" height="320" />
+
+✅  Working at Saraswath Consulting Services since December 2021.<br />
+✅  For Software Development, my choice of Programing language is Python. <br />
+✅  Currently learning Django framework and Golang programming language from scratch. n.<br />
+✅  I am also learning German for academics/career.I have acquired Goethe B2 Certificates.Learning C1 with Goethe online <br />
+
+ 📫 you can reach me: [ajeyanayak@saraswth-consulting.in](mailto:ajeyanayak@saraswath-consulting.in)
