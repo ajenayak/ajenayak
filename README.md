@@ -2,8 +2,8 @@
 
 Welcome to my official Github Profile. Thank you for your visit.
 
-My name is Ajeya and I am an enthusiastic Python Developer from India.
-<img align="right" alt="GIF" src="https://github.com/ajenayak/ajenayak?raw=true" width="500" height="320" />
+My name is Ajeya .
+<img align="right" alt="GIF" src="https://github.com/ajenayak/ajenayak/blog/main/python-2.gif?raw=true" width="500" height="320" />
 
 ✅  Working at Saraswath Consulting Services since December 2021.<br />
 ✅  For Software Development, my choice of Programing language is Python. <br />
