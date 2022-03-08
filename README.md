@@ -7,7 +7,7 @@ My name is Ajeya and and I am an enthusiastic Learner.
 
 ✅  Working at Saraswath Consulting Services since December 2021.<br />
 ✅  For Software Development, my choice of Programing language is Python. <br />
-✅  Currently learning Django framework and Golang programming language from scratch. n.<br />
+✅  Currently learning Django framework and Golang programming language from scratch.<br />
 ✅  I am also learning German for academics/career.I have acquired Goethe B2 Certificates.Learning C1 with Goethe online <br />
 
  📫 you can reach me: [ajeyanayak@saraswth-consulting.in](mailto:ajeyanayak@saraswath-consulting.in)
